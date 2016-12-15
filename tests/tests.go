@@ -7,11 +7,11 @@ import (
 )
 
 import (
-	"github.com/zpeters/speedtest/debug"
-	"github.com/zpeters/speedtest/misc"
-	"github.com/zpeters/speedtest/print"
-	"github.com/zpeters/speedtest/settings"
-	"github.com/zpeters/speedtest/sthttp"
+	"github.com/labomatik/speedtest/debug"
+	"github.com/labomatik/speedtest/misc"
+	"github.com/labomatik/speedtest/print"
+	"github.com/labomatik/speedtest/settings"
+	"github.com/labomatik/speedtest/sthttp"
 )
 
 // DownloadTest will perform the "normal" speedtest download test
