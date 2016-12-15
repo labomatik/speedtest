@@ -12,11 +12,11 @@ import (
 )
 
 import (
-	"github.com/zpeters/speedtest/coords"
-	"github.com/zpeters/speedtest/debug"
-	"github.com/zpeters/speedtest/misc"
-	"github.com/zpeters/speedtest/settings"
-	"github.com/zpeters/speedtest/stxml"
+	"github.com/labomatik/speedtest/coords"
+	"github.com/labomatik/speedtest/debug"
+	"github.com/labomatik/speedtest/misc"
+	"github.com/labomatik/speedtest/settings"
+	"github.com/labomatik/speedtest/stxml"
 )
 
 // SpeedtestConfigURL is where we pull the global 'config' from speedtest.net
